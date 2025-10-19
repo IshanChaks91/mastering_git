@@ -1,5 +1,5 @@
-## Welcome to Git!
+# Welcome to Git!
 
-# Hello Git!
+## Hello Git!
 
 - Let's work with Git!
