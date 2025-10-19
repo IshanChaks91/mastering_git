@@ -1,2 +1,5 @@
-## Hello Git!
- - I'm adding this from test_branch_2
+## Welcome to Git!
+
+# Hello Git!
+
+- Let's work with Git!
