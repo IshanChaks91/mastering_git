@@ -6,3 +6,5 @@
 - Let's learn how to use Git!
 - Let's manage projects with Git!
 - Let's resolve merge conflicts in Github!
+
+### Introduction
