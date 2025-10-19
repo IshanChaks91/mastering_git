@@ -3,3 +3,5 @@
 ## Hello Git!
 
 - Let's work with Git!
+- Let's learn how to use Git!
+- Let's manage projects with Git!
